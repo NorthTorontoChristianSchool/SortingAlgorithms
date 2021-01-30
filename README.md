@@ -1,4 +1,4 @@
-# SortingAlgorithms
+# Sorting Algorithms
  Introduction to various simple sorting algorithms in Java
 
 Included algorithms (ascending and descending sort):
